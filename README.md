@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello world 👋
 
-<!--
-**jcaillon/jcaillon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=jcaillon&include_all_commits=true&show_icons=true&theme=default)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcaillon&layout=compact&theme=default)
+
+<a href="https://github.com/jcaillon/3P">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcaillon&repo=3P&show_owner=true&layout=compact&theme=default" />
+</a>
+<a href="https://github.com/jcaillon/Oetools.Sakoe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcaillon&repo=Oetools.Sakoe&show_owner=true&layout=compact&theme=default" />
+</a>
